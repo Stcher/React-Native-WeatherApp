@@ -8,7 +8,7 @@ It takes responses from API and send it on your device, so you can see all infor
 
 # Navigate to this link and scan QR-code to open this project
 
-https://expo.dev/@cherkiy/SeaJo?serviceType=classic&distribution=expo-go
+https://expo.dev/@cherkiy/WeatherApp
 
 # Project showcase
 
